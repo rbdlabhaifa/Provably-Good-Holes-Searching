@@ -39,6 +39,7 @@ python3 main.py
 
 # 3. How to use:
 Please see attached video in files.
+![image](pic1.png)
 
 1. Select an image. 
 2. Press "Run" for running the algorithm. 
