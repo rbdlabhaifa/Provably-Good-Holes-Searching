@@ -24,7 +24,7 @@ Inter in cmd: ```pip install Pillow```
 ## Matplotlib
 Download and install instructions can be found at: https://matplotlib.org/3.1.1/users/installing.html#building-on-windows
 
-## Building library:
+##2. Building library:
 Download project then unzip the files 
 OR 
 Clone the repository:
@@ -32,13 +32,13 @@ Clone the repository:
 git clone https://github.com/rbdlabhaifa/Provably-Good-Holes-Searching.git
 ```
 
-# 2. Examples:
+# 3. Examples:
 run:
 ```
 python3 main.py
 ```
 
-# 3. How to use:
+# 4. How to use:
 ![image](pic1.png)
 
 Please see attached video in files.
