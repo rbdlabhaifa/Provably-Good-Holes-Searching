@@ -48,10 +48,10 @@ Please see attached video in files.
 4. When done, add a name to the image. 
 5. Press on save button and will open a dialog file to choose the directory you want to  save the image in.
 
-Zooming in/out:
+## Zooming in/out:
 You can zoom in and out by pressing on the magnifier icon on the top.
 
-Selecting a suberea:
+## Selecting a suberea:
 Do a mouse click at the origin of an erea you want to choose and drag the mouse to a destination point, release the button. 
 
 This class gives click- and release-events and also draws a line or a box from the 
