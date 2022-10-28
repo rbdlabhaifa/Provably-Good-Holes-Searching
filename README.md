@@ -10,28 +10,28 @@ a hole.
 # 1. Prerequisites
 We have tested the library in **Ubuntu 20.04**, and **Windows** but it should be easy to compile in other platforms.
 
-## Windows:
+## Building library and examples for WINDOWS:
 ## OpenCV
 We use [OpenCV](http://opencv.org) to manipulate images and features. Dowload and install instructions can be found at: http://opencv.org.
 
 ## Python
 Download and install instructions can be found at: https://www.python.org/downloads/windows/
 
-## PIL
+## PILLOW for a larger selection of image file formats: JPEG, BMP, and TIFF image files;
 Inter in cmd: ```pip install Pillow```
 
-# 2. Building library and examples
+## Matplotlib
+Download and install instructions can be found at: https://matplotlib.org/3.1.1/users/installing.html#building-on-windows
 
+## Building library:
 Download project then unzip the files 
-
 OR 
-
 Clone the repository:
 ```
 git clone https://github.com/rbdlabhaifa/Provably-Good-Holes-Searching.git
 ```
 
-# 3. Examples
+# 2. Examples
 run:
 ```
 python3 main.py
