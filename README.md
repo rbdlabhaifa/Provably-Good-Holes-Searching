@@ -18,16 +18,16 @@ We use [OpenCV](http://opencv.org) to manipulate images and features. Dowload an
 Download and install instructions can be found at: https://www.python.org/downloads/windows/
 
 ## PIL
-inter in cmd: ```pip install Pillow```
+Inter in cmd: ```pip install Pillow```
 
 # 2. Building Newton-PnP library and examples
 
-Clone the repository:
+Download project then unzip the files OR Clone the repository:
 ```
 git clone https://github.com/rbdlabhaifa/Newton-PnP.git
 ```
 
-Please make sure you have installed all required dependencies (see section 2). Execute:
+Please make sure you have installed all required dependencies (see section 1). Execute:
 ```
 mkdir build
 cd build
@@ -35,8 +35,8 @@ cmake ..
 make
 ```
 
-# 4. Examples
+# 3. Examples
+run:
 ```
-cd build
-./NPnP
+python3 main.py
 ```
