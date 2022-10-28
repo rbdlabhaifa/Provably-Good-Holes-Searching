@@ -17,7 +17,8 @@ We use [OpenCV](http://opencv.org) to manipulate images and features. Dowload an
 ## Python
 Download and install instructions can be found at: https://www.python.org/downloads/windows/
 
-## PILLOW for a larger selection of image file formats: JPEG, BMP, and TIFF image files;
+## PILLOW
+We use PIL for a larger selection of image file formats: JPEG, BMP, and TIFF image files;
 Inter in cmd: ```pip install Pillow```
 
 ## Matplotlib
