@@ -38,9 +38,9 @@ python3 main.py
 ```
 
 # 3. How to use:
-Please see attached video in files.
 ![image](pic1.png)
 
+Please see attached video in files.
 1. Select an image. 
 2. Press "Run" for running the algorithm. 
 3. Wait untill the algorithm is finished. A window will pop up with the chosen image with circles around the circles.
