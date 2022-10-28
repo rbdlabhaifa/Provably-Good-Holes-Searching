@@ -38,17 +38,22 @@ python3 main.py
 ```
 
 # 3. How to use:
-Please see attached video for an example
-1. Select image. 
-2. Run algorithm. 
-3. After the algorithm is finished will pop up the image with circles.
-4. You can zoom in and out by pressing on the magnifier icon on the top. 
-5. Select the rectangle:
-Do a mouse click somewhere, move the mouse to some destination, release the button. 
+Please see attached video in files.
+
+1. Select an image. 
+2. Press "Run" for running the algorithm. 
+3. Wait untill the algorithm is finished. A window will pop up with the chosen image with circles around the circles.
+4. When done, add a name to the image. 
+5. Press on save button and will open a dialog file to choose the directory you want to  save the image in.
+
+Zooming in/out:
+You can zoom in and out by pressing on the magnifier icon on the top.
+
+Selecting a suberea:
+Do a mouse click at the origin of an erea you want to choose and drag the mouse to a destination point, release the button. 
+
 This class gives click- and release-events and also draws a line or a box from the 
 click-point to the actual mouse position (within the same axes) until the button is 
 released. Within the method 'self.ignore()' it is checked whether the button from 
 eventpress and eventrelease are the same.
-6. When done, add a name to the image. 
-7. Press on save button and will open a dialog file to choose the directory you want to  save the image in.
 
