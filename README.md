@@ -5,7 +5,7 @@ above a field or a similar ground. The goal is to have a system that automatical
 image. More precisely, to return a subset of pixels in the given image, where each pixel is a center of such
 a hole. 
 
-<![Screenshot](3.JPG) , width="300" height="240" border="10"/>
+![](3.JPG) | width="300" height="240" border="10"
 
 # 1. Prerequisites
 We have tested the library in **Ubuntu 20.04**, and **Windows** but it should be easy to compile in other platforms.
