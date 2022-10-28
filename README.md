@@ -5,7 +5,7 @@ above a field or a similar ground. The goal is to have a system that automatical
 image. More precisely, to return a subset of pixels in the given image, where each pixel is a center of such
 a hole. 
 
-<a href="https://youtu.be/AT-H0GUlZDo" target="_blank"> <img src="http://img.youtube.com/vi/AT-H0GUlZDo/0.jpg" alt="Newton PnP" width="300" height="240" border="10"/></a>
+<a ![Screenshot](screenshot.png) width="300" height="240" border="10"/></a>
 
 # 1. Prerequisites
 We have tested the library in **Ubuntu 20.04**, and **Windows** but it should be easy to compile in other platforms.
@@ -22,7 +22,11 @@ Inter in cmd: ```pip install Pillow```
 
 # 2. Building library and examples
 
-Download project then unzip the files OR Clone the repository:
+Download project then unzip the files 
+
+OR 
+
+Clone the repository:
 ```
 git clone https://github.com/rbdlabhaifa/Newton-PnP.git
 ```
