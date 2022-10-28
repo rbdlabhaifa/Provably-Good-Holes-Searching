@@ -24,7 +24,7 @@ Inter in cmd: ```pip install Pillow```
 ## Matplotlib
 Download and install instructions can be found at: https://matplotlib.org/3.1.1/users/installing.html#building-on-windows
 
-##2. Building library:
+# 2. Building library:
 Download project then unzip the files 
 OR 
 Clone the repository:
