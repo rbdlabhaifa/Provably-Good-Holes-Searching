@@ -20,19 +20,11 @@ Download and install instructions can be found at: https://www.python.org/downlo
 ## PIL
 Inter in cmd: ```pip install Pillow```
 
-# 2. Building Newton-PnP library and examples
+# 2. Building library and examples
 
 Download project then unzip the files OR Clone the repository:
 ```
 git clone https://github.com/rbdlabhaifa/Newton-PnP.git
-```
-
-Please make sure you have installed all required dependencies (see section 1). Execute:
-```
-mkdir build
-cd build
-cmake ..
-make
 ```
 
 # 3. Examples
